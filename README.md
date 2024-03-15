@@ -1,0 +1,1 @@
+A fishing bot mainly made with pyautogui, it's very simple, waits a bit for you to alt + tab into game, throws fishing rod, and then check's for fish indicator. NOTE: Sound's indicator must be toggled on in the minecraft settings for this to work
